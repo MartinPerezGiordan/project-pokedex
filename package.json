@@ -1,0 +1,17 @@
+{
+  "name": "project-pokedex",
+  "version": "1.0.0",
+  "description": "Pokedex api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pokedex"
+  ],
+  "author": "Martin Perez",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
